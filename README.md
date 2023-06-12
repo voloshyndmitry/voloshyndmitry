@@ -26,6 +26,12 @@ Here are some of the technologies and tools I frequently work with:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=voloshyndmitry&layout=compact)
 
+## 🔖 Tags
+
+Here are some tags that describe my work and interests:
+
+`Full Stack Development` `Web Development` `Software Engineering` `Open Source` `Algorithms` `Data Structures` `JavaScript` `React` `Node.js` `Docker` `AWS` `Git`
+
 ## 📚 Projects
 
 Here are some highlighted projects that showcase my skills and interests:
