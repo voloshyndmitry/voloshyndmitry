@@ -20,6 +20,12 @@ Here are some of the technologies and tools I frequently work with:
 - ⚙️ **DevOps**: Docker, Kubernetes, AWS, Heroku
 - 🛠️ **Tools**: Git, GitHub, VS Code, IntelliJ IDEA, Postman, Jira
 
+## 📊 Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=voloshyndmitry&show_icons=true&count_private=true&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=voloshyndmitry&layout=compact)
+
 ## 📚 Projects
 
 Here are some highlighted projects that showcase my skills and interests:
