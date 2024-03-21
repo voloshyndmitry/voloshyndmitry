@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I'm Dmitry Voloshynd, a passionate software engine
 Here are some of the technologies and tools I frequently work with:
 
 - 🌐 **Frontend Development**: HTML5, CSS3, JavaScript, React, Vue.js, Angular
-- 📦 **Backend Development**: Node.js, Express.js, Django, Flask
-- 🗄️ **Databases**: MongoDB, PostgreSQL, MySQL, SQLite
+- 📦 **Backend Development**: Node.js, Express.js, Nust.js
+- 🗄️ **Databases**: MongoDB, PostgreSQL, MongoDB
 - ⚙️ **DevOps**: Docker, Kubernetes, AWS, Heroku
 - 🛠️ **Tools**: Git, GitHub, VS Code, IntelliJ IDEA, Postman, Jira
 
